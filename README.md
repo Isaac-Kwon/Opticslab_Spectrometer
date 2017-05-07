@@ -22,3 +22,11 @@ Require MATLAB, Curve Fitting Toolbox.
 
 ### When cannot seperate
 When cannot seperate peak of data from background noise, it should be been binning. Then, it can be terminate because almost all noise are sinusoidal ('binning' will integrate value and cancel fluctuation)
+
+
+## This Repo Contains.
+* Raw Data of Spectrometer of experiments
+
+### Will Contain
+* Data Analyze Script for MATLAB
+* Analyzed Data
