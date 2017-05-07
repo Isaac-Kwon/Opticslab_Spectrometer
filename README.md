@@ -11,10 +11,12 @@ Require MATLAB, Curve Fitting Toolbox.
 * Plot raw data graph
 * Analyze graph
 	* Select peak region to fit function
-		* Sharp Peak
-			* Fitting with Gaussian Function
 		* Broad Peak
 			* Fitting with Gamma Distribution or Maxwell-Boltzmann Distribution
+		* Sharp Peak
+			* Fitting with Gaussian Function
+		* Sharp Peak with Background Slope
+			* Fitting with Gaussian Function + Linear Slope (Background)
 		* Find FWHM (Full Width of Half Maximum) or Sigma from fitting function.
 * Plot raw data graph and fitted graph all together
 
